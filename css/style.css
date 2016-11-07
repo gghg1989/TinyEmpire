@@ -1,0 +1,37 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+header {
+	background-color: #EEEEEE;
+	width: 800px;
+}
+#container {
+	overflow: hidden;
+}
+nav {
+	background-color: #EEEEEE;
+	width: 200px;
+	float: left;
+}
+content {
+	background-color: #EEEEEE;
+	width: 600px;
+	float: left;
+}
+footer {
+	background-color: #EEFFFF;
+	width: 800px;
+}
+
+#messageBox {
+	width: 40%;
+	margin: 10px auto;
+	padding: 10px;
+	border: 1px solid #898989;
+	font-weight: bold;
+	color: red;
+	text-align: center;
+}
