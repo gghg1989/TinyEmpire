@@ -9,5 +9,4 @@
 
 	
 	include("footer.php");
-	
 ?>

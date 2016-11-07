@@ -11,5 +11,4 @@
 	
 	$get_weapon = mysql_query("SELECT * FROM `weapon` WHERE `foreign_user_id` = '" . $_SESSION['uid'] . "'") or die(mysql_error());
 	$weapon = mysql_fetch_assoc($get_weapon);
-	
 ?>

@@ -56,4 +56,3 @@
 			?>
 		</nav>
 		<content>
-		
